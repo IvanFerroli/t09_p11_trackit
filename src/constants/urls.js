@@ -1,1 +1,1 @@
-export const BASE_URL = "https://mock-api.driven.com.br/api/v8/cineflex"
+export const BASE_URL = "https://mock-api.bootcamp.respondeai.com.br/api/v2/trackit/"
